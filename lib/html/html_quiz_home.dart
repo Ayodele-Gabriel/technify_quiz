@@ -112,9 +112,9 @@ class _HTMLQuizHomeState extends State<HTMLQuizHome> {
                   ),
                 ),
               ),
-              Row(
-                children: scoreBoard,
-              ),
+              // Row(
+              //   children: scoreBoard,
+              // ),
             ],
           ),
         ),
